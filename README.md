@@ -20,15 +20,15 @@
 <h1 align="center"></h1>
 
 ###
-
+---
 <h3 align="center">Andrea Millone ♉ 🔱<br>Statistico | Data analyst | Biostatistico | Data scientist<br>Laurea Magistrale in Biostatistica (percorso Data Science) | Laurea Triennale in Statistica</h3>
 
 ###
-
+---
 <p align="center">Ciao! Sono Andrea Millone, laureato in Statistica e Biostatistica con specializzazione in Data Science. Ho esperienza in analisi statistica avanzata, machine learning e gestione di big data. Ottima padronanza di R, Python, SQL/NoSQL e dei principali software statistici come SAS, STATA e SPSS. Mi appassiona applicare tecniche statistiche avanzate, tra cui AI e Deep Learning, in progetti innovativi per ottenere insight significativi dai dati.</p>
 
 ###
-
+---
 <h3 align="left">🛠 Linguaggi e strumenti</h3>
 
 ###
