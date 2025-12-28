@@ -20,7 +20,6 @@
 <h1 align="center"></h1>
 
 ###
----
 <h3 align="center">Andrea Millone ♉ 🔱<br>Statistico | Data analyst | Biostatistico | Data scientist<br>Laurea Magistrale in Biostatistica (percorso Data Science) | Laurea Triennale in Statistica</h3>
 
 ###
